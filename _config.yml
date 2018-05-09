@@ -46,3 +46,6 @@ exclude:
   - s3_website.yml
 
 google_analytics: UA-118986691-1
+
+disqus:
+  shortname: yoshisnote
