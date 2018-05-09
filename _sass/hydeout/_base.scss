@@ -53,7 +53,8 @@ img {
   margin: 0 0 1rem;
   border-radius: 5px;
   height: auto; // Fix to keep max-width from squishing images with defined
-                // height in HTML
+  // height in HTML
+  max-height: 600px;
 }
 
 table {
