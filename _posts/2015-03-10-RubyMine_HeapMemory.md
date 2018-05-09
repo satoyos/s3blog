@@ -2,7 +2,6 @@
 layout: post
 title: RubyMineのヒープメモリを増やす
 tags:
-- RubyMine
 ---
 
 RubyMine EAP (Satsuki)を使っていたんだけど、ヒープメモリが足りなくなってしまい、ファイルを編集するだけでも滞るようになってしまった。

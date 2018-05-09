@@ -2,7 +2,6 @@
 layout: post
 title: 新Apple TVのストリーミング動画視聴が快適な件
 tags:
-- AppleTV
 ---
 
 先週末に発売になった（新しい）Apple TVですが、ネット動画を見るのには最強のガジェットであることが分かってきました。

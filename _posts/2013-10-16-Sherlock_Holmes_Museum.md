@@ -6,7 +6,6 @@ category: ロンドン旅行2013
 tags:
 - London
 - Trip
-- SherlockHolmes
 ---
 
 こちらの続きです。→  [1日目](/2013/10/15/Fly_to_London/)

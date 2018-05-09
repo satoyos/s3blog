@@ -3,7 +3,7 @@ layout: post
 title: Raspberry PI2で定期的にHubotを起こす
 tags:
 - Ubuntu
-- RaspberryPI
+- Raspberry PI
 ---
 
 うちの[Hubot](https://hubot.github.com/)は30分間アクセスがないと寝てしまうので、常時起動している[Raspberry PI2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)から20分に1回アクセスして寝かせないようにした。<br>

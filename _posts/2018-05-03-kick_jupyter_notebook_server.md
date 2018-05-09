@@ -1,7 +1,9 @@
 ---
 layout: post
 title: macOSログイン時に Jupyter Notebookを自動起動させる
-tags: Mac, Python
+tags:
+- Python
+- Mac OS X
 ---
 
 これまで、自宅サーバーとしてはRaspberry Piを使ってきたんだけど、

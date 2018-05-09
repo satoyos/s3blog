@@ -4,7 +4,6 @@ title: ご隠居システム
 excerpt_separator: <!--more-->
 tags:
 - 落語
-- Rakugo
 ---
 
 僕は落語をライブで聞くのが好きで、月に1～2回は聞きに行っています。

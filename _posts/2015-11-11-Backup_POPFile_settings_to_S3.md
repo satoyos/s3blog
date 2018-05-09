@@ -2,7 +2,7 @@
 layout: post
 title: Raspberry PI上のファイルをAmazon S3にバックアップする
 tags:
-- RaspberryPI
+- Raspberry PI
 - AWS
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: 絵心のない人は、Apple Pencilを何に使う？ 〜理系編〜
 tags:
-- ApplePencil
 ---
 
 「自分には絵心ないし、Apple Pencilとか関係ない」と思っていた人、特に理系の残念な皆様に朗報です。

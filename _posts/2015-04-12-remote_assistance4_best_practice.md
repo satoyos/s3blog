@@ -4,7 +4,7 @@ title: 実家のWindows PCをネット越しに世話する(4) ～ 共有フォ�
 excerpt_separator: <!--more-->
 tags:
 - Windows
-- RemoteAssistance
+- Remote Assistance
 ---
 
 このエントリーは、これまでに書いてきた下記3つのエントリーの続きになります。

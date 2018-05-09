@@ -3,7 +3,7 @@ layout: post
 title: aws-cliのコマンドをzsh上で補完したい
 tags:
 - AWS
-- Mac
+- Mac OS X
 ---
 
 Mac（OS X El Capitan）のzsh上でaws-cliのコマンドでTAB補完を有効にしたくて、下記記事などを参考に…

@@ -2,8 +2,7 @@
 layout: post
 title: VirtualBox上のUbuntuにSDカードを認識させる
 tags:
-- VirtualBox
-- RaspberryPI
+- Raspberry PI
 ---
 
 - 最終目的は、Raspberry PI2の上で[POPFile](http://getpopfile.org/docs/jp)を動かすこと。

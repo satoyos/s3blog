@@ -4,7 +4,7 @@ title: 姪のPCをリモートで世話できた件
 excerpt_separator: <!--more-->
 tags:
 - Windows
-- RemoteAssistance
+- Remote Assistance
 ---
 
 4月に札幌の大学に入学した姪に、お祝いとしてプリンターを贈りました。

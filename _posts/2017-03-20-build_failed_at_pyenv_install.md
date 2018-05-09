@@ -1,7 +1,9 @@
 ---
 layout: post
 title: macOSで pyenv install でビルドに失敗したときの対処メモ 
-tags: Python Mac
+tags:
+- Python
+- Mac OS X
 ---
 
 macOS上で、pyenvを使ってanaconda3をインストールしようとしたら、ビルドエラーが出た。

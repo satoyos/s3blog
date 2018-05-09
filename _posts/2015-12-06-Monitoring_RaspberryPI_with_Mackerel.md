@@ -2,7 +2,7 @@
 layout: post
 title: MackerelでRaspberry Piをモニタリング（死活監視）してみる
 tags:
-- RaspberryPI
+- Raspberry PI
 - Mackerel
 ---
 

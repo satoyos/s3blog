@@ -3,7 +3,7 @@ layout: post
 title: 実家のWindows PCをネット越しに世話する(1) ～ リモート アシスタンスのおさらい
 tags:
 - Windows
-- RemoteAssistance
+- Remote Assistance
 ---
 
 **「実家のPCを、自宅からリモートで世話できたらいいのに！」**と考えたことがある人は多いのではないでしょうか？

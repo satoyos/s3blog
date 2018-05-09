@@ -2,7 +2,6 @@
 layout: post
 title: ブックマークレット"ShareLink"が便利
 tags:
-- Blog
 - Jekyll
 ---
 

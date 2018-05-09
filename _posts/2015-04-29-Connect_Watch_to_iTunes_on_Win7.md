@@ -4,7 +4,6 @@ title: Apple WatchのRemoteアプリでiTunesに接続できないときの対�
 tags:
 - Windows
 - iTunes
-- AppleWatch
 ---
 
 Apple Watchで、PC（Windows 7）上のiTunesの音楽再生をコントロールしたいのに、PCに接続することができなかった。

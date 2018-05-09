@@ -2,7 +2,7 @@
 layout: post
 title: Raspberry PI2に外付けSSDをマウントする
 tags:
-- RaspberryPI
+- Raspberry PI
 - Ubuntu
 ---
 

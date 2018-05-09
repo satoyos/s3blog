@@ -4,7 +4,6 @@ title: Vocaloid4 Editor
 tags:
 - 百首読み上げ
 - 百人一首
-- Vocaloid
 ---
 
 「昨年末にVocaloid EditorのVer.4が出た。」という話を聞いて、遅まきながらアップグレードしてみた。

@@ -3,8 +3,6 @@ layout: post
 title: Max OS X Yosemiteに octave をインストールする
 tags:
 - Mac OS X
-- Octave
-- MachineLearning
 ---
 
 [Coursera の Machine Learningの講義](https://www.coursera.org/course/ml)で使うプログラム octave をインストールしようとして、つまづいた。
