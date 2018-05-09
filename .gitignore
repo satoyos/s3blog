@@ -1,4 +1,5 @@
 _site/*
 s3_website.yml
 .jekyll-metadata
+.sass-cache/
 
