@@ -42,3 +42,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - s3_website.yml
+
+google_analytics: UA-118986691-1
