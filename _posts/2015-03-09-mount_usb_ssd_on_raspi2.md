@@ -4,6 +4,7 @@ title: Raspberry PI2に外付けSSDをマウントする
 tags:
 - Raspberry PI
 - Ubuntu
+category: RasPi
 ---
 
 Ubuntuを導入したRaspberry PI2上でDockerを動かしてみるためには、外付けストレージの使用が推奨されている。裸のSSDが余っているので、こいつをUSB外付けケースに入れて、マウントしようと思う。

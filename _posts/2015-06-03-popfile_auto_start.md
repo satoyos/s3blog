@@ -6,6 +6,7 @@ tags:
 - Ubuntu
 - POPFile
 - Raspberry PI
+category: RasPi
 ---
 
 Raspberry PI2上のUbuntuでは、`apt-get`でPOPFileをインストールすることができた。

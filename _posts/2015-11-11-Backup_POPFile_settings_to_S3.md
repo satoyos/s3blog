@@ -4,6 +4,7 @@ title: Raspberry PI上のファイルをAmazon S3にバックアップする
 tags:
 - Raspberry PI
 - AWS
+category: RasPi
 ---
 
 - Raspberry PI2の上で、メールフィルタリング・アプリであるPOPFileを動かしている。

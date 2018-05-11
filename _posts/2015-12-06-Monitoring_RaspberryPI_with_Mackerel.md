@@ -4,6 +4,7 @@ title: MackerelでRaspberry Piをモニタリング（死活監視）してみ�
 tags:
 - Raspberry PI
 - Mackerel
+category: RasPi
 ---
 
 うちのRaspberry Pi2の仕事が増えてきた。もちろん、止まってもそれほど大した被害はないんだけど、「何か問題が起きたらすぐ分かるように監視できればなぁ」という程度にはモニタリングしたくなった。

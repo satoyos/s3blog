@@ -4,6 +4,7 @@ title: "SDカードにRaspberry PI用のUbuntuを導入してみる"
 excerpt_separator: <!--more-->
 tags:
 - Raspberry PI
+category: RasPi
 ---
 
 前に書いた記事[「VirtualBox上のUbuntuにSDカードを認識させる」](/2015/03/01/SD_for_Ubuntu/index.html)の続き。
