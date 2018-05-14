@@ -49,3 +49,7 @@ google_analytics: UA-118986691-1
 
 disqus:
   shortname: yoshisnote
+
+# Set URL as /:year/:month/:day/:title/  
+permalink: pretty
+  
