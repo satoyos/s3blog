@@ -51,5 +51,5 @@ disqus:
   shortname: yoshisnote
 
 # Set URL as /:year/:month/:day/:title/  
-permalink: pretty
+permalink: /:year/:month/:day/:title/
   
