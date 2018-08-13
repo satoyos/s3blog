@@ -8,7 +8,7 @@ tags:
 
 Mac（OS X El Capitan）のzsh上でaws-cliのコマンドでTAB補完を有効にしたくて、下記記事などを参考に…
 
-<div class="sharelink" style="padding: 6px; border: 1px solid #aaaaaa;  margin: 0px 0px 50px;"><a href="http://qiita.com/ainoya/items/9f6dce896deab77a001e" title="zshでaws-cliのコマンド補完を利用する - Qiita" target="_blank"><img src="http://capture.heartrails.com/120x90/shadow?http://qiita.com/ainoya/items/9f6dce896deab77a001e" width="120" height="90" style="float: left;"></a><a href="http://qiita.com/ainoya/items/9f6dce896deab77a001e" title="zshでaws-cliのコマンド補完を利用する - Qiita" target="_blank">zshでaws-cliのコマンド補完を利用する - Qiita</a><a href="http://b.hatena.ne.jp/entry/http://qiita.com/ainoya/items/9f6dce896deab77a001e"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/ainoya/items/9f6dce896deab77a001e" alt="はてなブックマーク - zshでaws-cliのコマンド補完を利用する - Qiita" title="はてなブックマーク - zshでaws-cliのコマンド補完を利用する - Qiita"></a><br style="clear: both;" /></div>
+[zshでaws-cliのコマンド補完を利用する - Qiita](http://qiita.com/ainoya/items/9f6dce896deab77a001e)
 
 {% highlight bash %}
 source /usr/local/bin/aws_zsh_completer.sh
