@@ -64,6 +64,13 @@ iPhone, iPad, iPod Touchで動きます。(※1)
 
 こちらのTwitterアカウントまで。→ [@Shuffle100](https://twitter.com/shuffle100)
 
+# プライバシーポリシー
+
+[プライバシーポリシーのページ][pvivacy_policy]
+
+ [pvivacy_policy]: /pages/privacy_policy/
+
+
 # ソースコード
 
 このアプリのソースは、[GitHub](https://github.com/satoyos/Shuffle100)で公開しています。
@@ -116,6 +123,11 @@ Fake Verses can be added in Normal mode. Additional fake verses are collected at
 # Support Account (Twitter)
 
 HERE! => [@Shuffle100](https://twitter.com/shuffle100)
+
+# Privacy Policy
+
+[Our Privacy Policy][pvivacy_policy]
+
 
 # Source Code
 
