@@ -1,7 +1,7 @@
 ---
 layout: page
 title: プライバシーポリシー (Privacy Policy)
-sidebar_link: true
+sidebar_link: false
 ---
 
 [English descriptions of this policy are attached at the end.]
