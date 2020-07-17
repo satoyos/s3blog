@@ -5,14 +5,14 @@ tags: 百人一首, RubyMotion
 sidebar_link: true
 ---
 
-人の代わりに百人一首の読み手を務めてくれるiOSアプリを作りました。  
-iPhone, iPad, iPod Touchで動きます。(※1)
+人の代わりに百人一首の読み手を務めてくれるiOSアプリを作りました。
+iPhone, iPad, iPod Touchで動きます。
 
 [English descriptions of this App are attached at the end.]
 
 ![読み上げ画面のイメージ](/images/Shuffle100_600.png)
 
-ボーカロイド音声(※2)で、百人一首の歌をランダムに読み上げます。
+ボーカロイド音声(※1)で、百人一首の歌をランダムに読み上げます。
 
 こんな感じで使います。(競技かるた用の通常モードでの使用例です。)
 
@@ -41,7 +41,7 @@ iPhone, iPad, iPod Touchで動きます。(※1)
 
 ### 3. 空札(からふだ)の有無
 
-読み上げる札の中に、空札(取り札が無い「ハズレ」札)を入れるかどうかを設定できます。  
+読み上げる札の中に、空札(取り札が無い「ハズレ」札)を入れるかどうかを設定できます。
 空札は、「試合に使う歌」と同数の札がランダムに選ばれます。
 
 ### 4. 歌と歌の間の間隔
@@ -50,7 +50,7 @@ iPhone, iPad, iPod Touchで動きます。(※1)
 
 ### 5. 上の句と下の句の間の間隔
 
-上の句を読み終わってから下の句を読み上げるまでの間隔を設定できます。  
+上の句を読み終わってから下の句を読み上げるまでの間隔を設定できます。
 (初心者モードでのみ設定できます。)
 
 
@@ -73,12 +73,11 @@ iPhone, iPad, iPod Touchで動きます。(※1)
 
 # ソースコード
 
-このアプリのソースは、[GitHub](https://github.com/satoyos/Shuffle100)で公開しています。
+このアプリのソースは、[GitHub](https://github.com/satoyos/Shuffle100_Swift)で公開しています。
 また、ボーカロイド音声の歌唱データも[こちらのページ](https://github.com/satoyos/HyakuninIsshuVocaloidScore)で公開しています。
 
 ---
-(※1) iOS9.0以降のOSが必要です。  
-(※2) ボーカロイドはヤマハ株式会社の登録商標です。
+(※1) ボーカロイドはヤマハ株式会社の登録商標です。
 
 ---
 ---
@@ -100,7 +99,7 @@ You can watch Demo video;
 ### 1. Timing of pause
 
  Mode | Description |
-| ---- | ----------- | 
+| ---- | ----------- |
 | Normal mode | Mode for Kyogi-Karuta. VOCALOID pauses singing just after 1st half of a verse. |
 |Beginner mode | Recommended mode for Beginner. VOCALOID pauses after singing a whole verse.|
 
@@ -131,7 +130,7 @@ HERE! => [@Shuffle100](https://twitter.com/shuffle100)
 
 # Source Code
 
-I'm developing this App as a Open Source Project in [GitHub](https://github.com/satoyos/Shuffle100).  
+I'm developing this App as a Open Source Project in [GitHub](https://github.com/satoyos/Shuffle100_Swift).
 You can VOCALOID score data in [this page](https://github.com/satoyos/HyakuninIsshuVocaloidScore).
 Commets and Pull Requests are welcome !!
 
